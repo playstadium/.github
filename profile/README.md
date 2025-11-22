@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" styles="max-width: 300px; margin: auto;">
   <a href="https://playstadium.gg"></a>
 
   # STADIUM
