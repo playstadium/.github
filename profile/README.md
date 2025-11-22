@@ -1,6 +1,6 @@
-<div align="center" styles="max-width: 300px; margin: auto;">
+![icon](https://github.com/user-attachments/assets/1e69ea93-13e5-449a-822b-d6370ef757f0)<div align="center" styles="max-width: 300px; margin: auto;">
   <a href="https://playstadium.gg">
-    ![icon](https://github.com/user-attachments/assets/4ea56ea2-af59-49db-bf0b-2c547773b3b7)
+
   </a>
 
   # STADIUM
