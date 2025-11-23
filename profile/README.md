@@ -6,4 +6,4 @@
 
 **STADIUM** is an esports appchain that makes competitive gaming accessible for everyone — players, developers, and organizers.
 
-[Homepage](https://playstadium.gg) | [Manifesto](https://www.playstadium.gg/manifesto) | [Discord](https://discord.gg/t2vVAbj7Av) | [Twitter](https://twitter.com/stadium_gg)
+[Site](https://playstadium.gg) | [Manifesto](https://www.playstadium.gg/manifesto) | [Discord](https://discord.gg/t2vVAbj7Av) | [Twitter](https://twitter.com/stadium_gg)
